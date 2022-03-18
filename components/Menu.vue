@@ -24,12 +24,12 @@ export default {
 					'text':'Home page'
 				},
 				{
-					'to':'/Homeworks',
+					'to':'/Homeworks/',
 					'icon':'edit-alt',
 					'text':'HomeWorks'
 				},
 				{
-					'to':'/sessions',
+					'to':'/sessions/',
 					'icon':'calendar',
 					'text':'Discussion Sessions Calender'
 				}

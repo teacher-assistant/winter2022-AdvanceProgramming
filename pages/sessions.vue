@@ -9,7 +9,6 @@
 <script>
 import 'boxicons'
 export default {
-  name: 'IndexPage',
   head(){
   	return{
   		title:'Sessions Calender'
