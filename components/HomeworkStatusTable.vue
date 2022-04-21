@@ -13,6 +13,7 @@
 		      <th scope="col">HW2</th>
 		      <th scope="col">HW3</th>
 		      <th scope="col">HW4</th>
+		      <th scope="col">HW6</th>
 		    </tr>
 		  </thead>
 		  <tbody>
@@ -23,6 +24,7 @@
 		      <td> {{ student.HW2 }}</td>
 		      <td> {{ student.HW3 }}</td>
 		      <td> {{ student.HW4 }}</td>
+		      <td> {{ student.HW6 }}</td>
 		    </tr>
 		  </tbody>
 		</table>
