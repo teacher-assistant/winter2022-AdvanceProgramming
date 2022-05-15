@@ -27,11 +27,6 @@ export default {
 					'to':'/Homeworks/',
 					'icon':'edit-alt',
 					'text':'HomeWorks'
-				},
-				{
-					'to':'/sessions/',
-					'icon':'calendar',
-					'text':'Discussion Sessions Calender'
 				}
 			]
 		}
